@@ -62,7 +62,7 @@
 }
 
 @media all and (min-width:671px){
-  .menu-icon{
+  .menu-icon, fa{
     display:none;
   }
 }
